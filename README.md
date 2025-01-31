@@ -12,7 +12,7 @@ This repository contains various AI algorithms implemented in Python. These impl
 
 ### Search Algorithms
 - **3x3 Grid Problem** (`3x3-grid-problem.ipynb`): Solving a grid-based search problem.
-- **A* Algorithm** (`a-star-usage.ipynb`, `a-star.py`): Implementation of A* search.
+- ** A* Algorithm ** (`a-star-usage.ipynb`, `a-star.py`): Implementation of A* search.
 - **Hill Climbing** (`hill-climbing.ipynb`): Hill climbing search technique.
 - **Water Jug Problem** (`water-jug-problem.py`): State-space search problem.
 
